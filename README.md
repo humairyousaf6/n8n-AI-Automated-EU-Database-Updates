@@ -14,9 +14,10 @@ The workflow reduces repetitive review and data-entry tasks while allowing human
 - **Synchronizes information:** Updates corresponding records in connected spreadsheets and data stores.
 - **Tracks outcomes:** Maintains an update history and supports notifications for completed or exceptional actions.
 
-## Workflow Preview
+### n8n Workflow Overview
 
-![Sanitized n8n workflow overview](screenshots/workflow-overview-public.png)
+![n8n AI Database Automation Workflow](Automate%20Updates%20for%20the%20Database%20of%20EU%20files%20%282026%29.png)
+
 
 *Redacted overview of the n8n workflow. Node-level labels and client-specific routing details are intentionally obscured.*
 
